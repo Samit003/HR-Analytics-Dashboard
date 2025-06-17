@@ -16,11 +16,12 @@ It visualizes key employee data to help understand attrition patterns, job satis
 
 ## 🛠️ Tools Used
 - Tableau
-- IBM HR Analytics Dataset
+- Sample company data (provided for project use)
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
 
 ## 📌 About the Dataset
-This dashboard is based on the IBM HR Analytics dataset, commonly used for employee attrition and performance analysis.
-
+This dashboard was built using sample data from a company's HR department.  
+The dataset includes employee-related fields such as department, attrition status, job satisfaction, performance, and demographic information.  
+It was used to explore and visualize key workforce insights.
